@@ -1,2 +1,0 @@
-# wpu-belajar
-belajar web
